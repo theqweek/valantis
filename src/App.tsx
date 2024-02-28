@@ -1,7 +1,7 @@
 import './App.css'
 
 const App = () => {
-  return null;
+  return <div>Valantis</div>;
 }
 
 export default App;
